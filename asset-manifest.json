@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rebapi/static/css/main.a617e044.chunk.css",
+    "main.js": "/rebapi/static/js/main.1895c5c0.chunk.js",
+    "main.js.map": "/rebapi/static/js/main.1895c5c0.chunk.js.map",
+    "runtime-main.js": "/rebapi/static/js/runtime-main.3be451cd.js",
+    "runtime-main.js.map": "/rebapi/static/js/runtime-main.3be451cd.js.map",
+    "static/js/2.f283b2b1.chunk.js": "/rebapi/static/js/2.f283b2b1.chunk.js",
+    "static/js/2.f283b2b1.chunk.js.map": "/rebapi/static/js/2.f283b2b1.chunk.js.map",
+    "static/js/3.c7ae1de0.chunk.js": "/rebapi/static/js/3.c7ae1de0.chunk.js",
+    "static/js/3.c7ae1de0.chunk.js.map": "/rebapi/static/js/3.c7ae1de0.chunk.js.map",
+    "index.html": "/rebapi/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/rebapi/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.f283b2b1.chunk.js.LICENSE.txt": "/rebapi/static/js/2.f283b2b1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rebapi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3be451cd.js",
+    "static/js/2.f283b2b1.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.1895c5c0.chunk.js"
+  ]
+}
